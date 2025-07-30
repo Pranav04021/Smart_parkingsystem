@@ -72,11 +72,12 @@ CREATE TABLE `parking_lots` (
 --
 -- Dumping data for table `parking_lots`
 --
-
 INSERT INTO `parking_lots` (`id`, `lot_name`, `location`, `price_per_hour`) VALUES
-(1, 'doo', 'vyz', 0.00),
-(2, 'tyu', 'vyz', 0.00),
-(3, 'pvp', 'vijayawada', 10.00);
+(1, 'PVP', 'Vijayawada', 10.00),
+(2, 'DMART', 'Vijayawada', 20.00),
+(3, 'DMART', 'Guntur', 20.00),
+(4, 'PHEONIX MALL', 'Guntur', 20.00);
+
 
 -- --------------------------------------------------------
 
